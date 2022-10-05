@@ -48,11 +48,11 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## Changelog
 
 v0.5.0 was released in 04/01/2021.
-Please refer to [changelog.md](docs/changelog.md) for details and release history.
+Please refer to [changelog.md](docs/en/changelog.md) for details and release history.
 
 ## Benchmark and model zoo
 
-Results and models are available in the [model zoo](docs/model_zoo.md).
+Results and models are available in the [model zoo](docs/en/model_zoo.md).
 
 Supported methods of video object detection:
 
@@ -75,7 +75,7 @@ Please refer to [install.md](docs/install.md) for install instructions.
 
 ## Get Started
 
-Please see [dataset.md](docs/dataset.md) and [quick_run.md](docs/quick_run.md) for the basic usage of MMTracking.
+Please see [dataset.md](docs/dataset.md) and [quick_run.md](docs/en/quick_run.md) for the basic usage of MMTracking.
 We also provide usage [tutorials](docs/tutorials/).
 
 ## Contributing
