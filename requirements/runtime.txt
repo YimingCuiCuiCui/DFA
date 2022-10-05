@@ -1,0 +1,11 @@
+dotty_dict
+lap
+matplotlib
+mmcls>=0.16.0
+motmetrics
+packaging
+pycocotools<=2.0.2
+seaborn
+six
+terminaltables
+tqdm
