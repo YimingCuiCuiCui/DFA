@@ -71,16 +71,12 @@ Supported methods of single object tracking:
 
 ## Installation
 
-Please refer to [install.md](docs/install.md) for install instructions.
+Please refer to [install.md](docs/en/install.md) for install instructions.
 
 ## Get Started
 
 Please see [dataset.md](docs/dataset.md) and [quick_run.md](docs/en/quick_run.md) for the basic usage of MMTracking.
-We also provide usage [tutorials](docs/tutorials/).
-
-## Contributing
-
-We appreciate all contributions to improve MMTracking. Please refer to [CONTRIBUTING.md](.github/CONTRIBUTING.md) for the contributing guideline.
+We also provide usage [tutorials](docs/en/tutorials/).
 
 ## Acknowledgement
 
