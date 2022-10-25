@@ -89,6 +89,12 @@ and develop their own new video perception methods.
 
 If you find this repo useful for your research, please consider citing the paper
 ```
+@article{cui2022dfa,
+  title={DFA: Dynamic Feature Aggregation for Efficient Video Object Detection},
+  author={Cui, Yiming},
+  journal={arXiv preprint arXiv:2210.00588},
+  year={2022}
+}
 @article{cui2021tf,
   title={TF-Blender: Temporal Feature Blender for Video Object Detection},
   author={Cui, Yiming and Yan, Liqi and Cao, Zhiwen and Liu, Dongfang},
