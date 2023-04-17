@@ -59,6 +59,8 @@ Supported methods of video object detection:
 - [x] [DFF](configs/vid/dff)
 - [x] [FGFA](configs/vid/fgfa)
 - [x] [SELSA](configs/vid/selsa)
+- [x] [FGFA + DFA](configs/vid/fgfa)
+- [x] [SELSA + DFA](configs/vid/selsa)
 
 Supported methods of multi object tracking:
 
